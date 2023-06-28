@@ -5,32 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d382595-7b0d-4909-aecf-758c6f59671c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PackageEdu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/AccountBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/ControlImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fight/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fight/Fight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heritage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heritage/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heritage/Scholar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heritage/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heritage/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heritage/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Publication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Reptilian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Kangaroo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectfinal/ActionsVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectfinal/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectfinal/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectfinal/Viewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectfinal/Visualization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heritage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +48,11 @@
 }</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heritage.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="PackageEdu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heritage.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

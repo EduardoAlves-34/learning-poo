@@ -91,6 +91,7 @@ public class Book implements Publication {
     @Override
     public void open() {
         this.open = true;
+        System.out.println("ABRINDO LIVRO");
     }
 
     @Override
